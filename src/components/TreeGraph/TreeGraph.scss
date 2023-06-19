@@ -1,0 +1,73 @@
+.rd3t-tree-container {
+  width: 100%;
+  height: 100%;
+  cursor: move;
+  cursor: grab;
+  cursor: -moz-grab;
+  cursor: -webkit-grab;
+  &:active {
+    cursor: grabbing;
+    cursor: -moz-grabbing;
+    cursor: -webkit-grabbing;
+  }
+
+  // node
+
+  .rd3t-node circle {
+    opacity: 0.5;
+  }
+
+  .rd3t-node text {
+    fill-opacity: 1;
+  }
+
+  .rd3t-node {
+    cursor: pointer;
+    .node_circle {
+      stroke: #00bf9c;
+      stroke-width: 1.5px;
+    }
+
+    .pool1_node {
+      fill: #ecc708;
+    }
+
+    .pool2_node {
+      fill: #8289c4;
+    }
+
+    .pool3_node {
+      fill: #66d9c4;
+    }
+
+    .node-hilight {
+      stroke: #168541;
+      stroke-width: 0.5px;
+    }
+  }
+
+  .label-text {
+    font-size: 16px;
+  }
+
+  // link
+  .rd3t-link {
+    fill: none;
+    stroke-width: 2px;
+  }
+  .pool1_link {
+    stroke: #ecc708;
+  }
+
+  .pool2_link {
+    stroke: #8289c4;
+  }
+
+  .pool3_link {
+    stroke: #66d9c4;
+  }
+
+  .label_link {
+    stroke: none;
+  }
+}

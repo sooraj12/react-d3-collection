@@ -1,0 +1,92 @@
+export const chartData = [
+  {
+    value: 40.34,
+    name: "lorem ipsum",
+    index: 0,
+    id: 5,
+  },
+  {
+    value: 36.82,
+    name: "lorem ipsum",
+    index: 1,
+    id: 10,
+  },
+  {
+    value: 31.27,
+    name: "lorem ipsum",
+    index: 2,
+    id: 6,
+  },
+  {
+    value: 25.24,
+    name: "lorem ipsum",
+    index: 3,
+    id: 14,
+  },
+  {
+    value: 84.18,
+    name: "lorem ipsum",
+    index: 4,
+    id: 7,
+  },
+  {
+    value: 83.48,
+    name: "lorem ipsum",
+    index: 5,
+    id: 12,
+  },
+  {
+    value: 18.67,
+    name: "lorem ipsum",
+    index: 6,
+    id: 18,
+  },
+  {
+    value: 50.12,
+    name: "lorem ipsum",
+    index: 7,
+    id: 13,
+  },
+  {
+    value: 16.77,
+    name: "lorem ipsum",
+    index: 8,
+    id: 8,
+  },
+  {
+    value: 13.41,
+    name: "lorem ipsum",
+    index: 9,
+    id: 15,
+  },
+  {
+    value: 60.96,
+    name: "lorem ipsum",
+    index: 10,
+    id: 4,
+  },
+  {
+    value: 11.91,
+    name: "lorem ipsum",
+    index: 11,
+    id: 33,
+  },
+  {
+    value: 18.16,
+    name: "lorem ipsum",
+    index: 12,
+    id: 35,
+  },
+  {
+    value: 78.16,
+    name: "lorem ipsum",
+    index: 13,
+    id: 36,
+  },
+  {
+    value: 80.76,
+    name: "lorem ipsum",
+    index: 14,
+    id: 9,
+  },
+];
